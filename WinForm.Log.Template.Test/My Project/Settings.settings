@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="ProgTitle" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Meine Bank</Value>
+    </Setting>
+    <Setting Name="MwStNormal" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">19</Value>
+    </Setting>
+    <Setting Name="MwStVermindert" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">7</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
